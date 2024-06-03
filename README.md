@@ -2,7 +2,7 @@
 Getting Optitrack running with ROS2
 Original Source: https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack
 
-1. Git Clone this Repository
+1. Git Clone this Repository Recursively "--recursive"
 2. cd into mocap4r2_ws/src and verify mocap4r2 + mocap4ros2_optitrack + mocap_msg
 3. do "cd .." and then "rosdep install --from-paths src --ignore-src -r -y"
 4. do "cd into src" and then "vcs import < mocap4ros2_optitrack/dependency_repos.repos"
