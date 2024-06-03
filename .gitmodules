@@ -1,0 +1,9 @@
+[submodule "mocap4r2_ws/src/mocap4r2"]
+	path = mocap4r2_ws/src/mocap4r2
+	url = https://github.com/MOCAP4ROS2-Project/mocap4r2
+[submodule "mocap4r2_ws/src/mocap4ros2_optitrack"]
+	path = mocap4r2_ws/src/mocap4ros2_optitrack
+	url = https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack.git
+[submodule "mocap4r2_ws/src/mocap4r2_msgs"]
+	path = mocap4r2_ws/src/mocap4r2_msgs
+	url = https://github.com/MOCAP4ROS2-Project/mocap4r2_msgs.git
